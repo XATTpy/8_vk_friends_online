@@ -22,7 +22,7 @@ $ python3 vk_friends_online.py
 Solid Snake
 Revolver Ocelot
 Big Boss
-Python
+Natasha Romanenko
 Decoy Octopus
 ```
 
