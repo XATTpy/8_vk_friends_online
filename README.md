@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+This script shows friends in the online status.
 
 # How to Install
 
@@ -11,6 +11,20 @@ pip install -r requirements.txt # alternatively try pip3
 ```
 
 Remember, it is recommended to use [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) for better isolation.
+
+Then run the script:
+
+```bash
+$ python3 vk_friends_online.py
+Введите телефон или email для vk.com: kojima@e-mail.jp
+Введите пароль для vk.com: 
+5 друзей онлайн:
+Solid Snake
+Revolver Ocelot
+Big Boss
+Python
+Decoy Octopus
+```
 
 # Project Goals
 
